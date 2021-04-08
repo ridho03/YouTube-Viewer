@@ -20,6 +20,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+AND DI REEDIT OLEH RIDHO SETIAWAN
 """
 
 import concurrent.futures.thread
@@ -68,6 +71,16 @@ Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
                          Yb  dP  88 88__    Yb  db  dP  88__   88__dP 
                           YbdP   88 88""     YbdPYbdP   88""   88"Yb  
                            YP    88 888888    YP  YP    888888 88  Yb 
+                           
+                  
+8888i88    88   88ii88i      88        88       8i88i8
+88    88   88   88     88    88        88    88        88
+8888 88    88   88      88   88        88   88          88
+88  88     88   88      88   88ii 88 ii88   88          88
+88   88    88   88     88    88        88    88        88
+88    88   88   88ii88i      88        88       8i88i8
+                           
+                           
 """ + bcolors.ENDC)
 
 print(bcolors.OKCYAN + """
